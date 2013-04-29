@@ -10,4 +10,16 @@ A condensed view for Pinboard.in
 
 Chrome webstore: https://chrome.google.com/webstore/detail/pinboardin-condensed-view/mambbmaeihhfnajbfpgpbogempeakafj
 
-![]('img/after.png')
+## Screenshots
+
+### After
+#### Popular page
+![](screenshots/after.png)
+#### Tag page
+![](screenshots/after_tag.png)
+
+### Before
+#### Popular page
+![](screenshots/before.png)
+#### Tag page
+![](screenshots/before_tag.png)
