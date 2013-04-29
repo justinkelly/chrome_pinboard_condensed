@@ -1,0 +1,13 @@
+{
+	"manifest_version":2,
+	"name": "Pinboard.in condensed view",
+		"version": "0.1",
+		"description": "Pinboard.in condensed view",
+		"icons": { "128": "img/pinboard128.png" },
+		"content_scripts": [
+		{
+			"matches": ["http://*.pinboard.in/*","https://*.pinboard.in/*"],
+			"js": ["jquery.js","chrome_pinboard_condensed.js"]
+		}
+	]
+}
